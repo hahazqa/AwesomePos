@@ -20,7 +20,7 @@ npm run build
 npm run test
 ```
 
-### Lints and fixes files
+### Lints and fixes files haha
 ```
 npm run lint
 ```
