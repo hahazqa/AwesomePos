@@ -5,7 +5,7 @@ import Pos from '@/views/page/Pos.vue'
 // import Main from '@/views/page/Main.vue'
 
 Vue.use(Router)
-
+//111
 export default new Router({
   routes: [
     {
